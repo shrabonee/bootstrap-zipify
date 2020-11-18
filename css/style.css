@@ -1,0 +1,183 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  	-webkit-box-sizing: border-box;
+}
+
+body{
+  font-family: 'Lora', serif;
+  font-size: 14px;
+}
+.herder-section{
+	background-color: #0D6EFD;
+}
+.navbar{
+	background-color:#2B435E;
+	color: white!important; 
+}
+
+.navbar-brand img{
+  width: 150px;
+}
+.nav-link{
+	padding-right: .5rem;
+    padding-left: .5rem;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    display: inline-block;
+    color: gray !important;
+    	transition: 0.5s;
+
+}
+.nav-link:hover{
+	color: #6bc675 !important;
+	transition: 0.5s;
+}
+
+.custom{
+ background: #6EEC54;
+border: 2px solid  #6EEC54;
+  padding: 15px 95px;
+  color: white;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 5px;
+  
+}
+.custom:hover{
+  background-color: transparent;
+   border-color: #6EEC54 !important;
+   border-radius: 8px;
+   color: #6EEC54
+
+}
+.custom:focus{
+	outline: none;
+}
+.about-content ul li{
+  padding-bottom: 15px;
+}
+
+.about-content ul li a {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 18px;
+  color: gray;
+}
+
+.about-content ul li a a:hover{
+
+}
+
+.about-content h1{
+  font-weight: 600;
+  color: green;
+  font-size: 35px;
+}
+
+.banner-content ul li{
+padding-bottom: 10px;
+}
+.banner-content h1{
+  padding:10px 0;
+}
+
+.about-content p{
+font-size: 16px;
+font-weight: 400;
+padding: 20 95px;
+}
+
+.about-content h1{
+  font-size: 40px;
+font-weight: 600;
+color:#6eec54;
+}
+.about-section{
+  background-color:#f8f9fa;
+}
+.box{
+  border:1px solid black;
+  background-color: #f8f9fa;
+  padding: 80px;
+}
+
+.box img{
+  width: 300px;
+}
+.feature-content p{
+font-size: 16px;
+font-weight: 400;
+padding: 10 0px;
+}
+.footer-section{
+  background-color:#f8f9fa;
+}
+
+.about-content h2{
+font-size: 32px;
+font-weight: 600;
+padding-bottom: 10px;
+}
+
+
+.about-content ul li  a:hover{
+  
+   color: #6EEC54;
+     }
+/*//======background img style======
+.herder-section{
+	width: 100%;
+	background-image: url(../images/zipify_about_hero_v2.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh;
+}*/
+
+
+  /*/===========button style=========
+/*.custom{
+ background: #FF764B;
+    border-color: #FF764B;
+  padding: 15px 55px;
+  color: white;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 600;
+}
+*/
+/*.btn-custom{
+  
+    padding: 13px 45px;
+    border-radius: 35px;
+    background: white;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    border:1px solid black;
+    color: #3a414e;
+    transition: all .4s ease;
+
+}
+.btn-custom:hover{
+	background-color: #22195B;
+	border:1px solid white;
+	color: #fff;
+}*/
+
+/*.h1{
+	font-size: 38px;
+	font-weight: 700;
+	font-color:red;
+	text-transform: uppercase;
+
+}
+. p{
+	font-size: 15px;
+	color: #797979;
+	font-weight: 400;
+}*/
+
